@@ -10,35 +10,35 @@ const projects = [
     description:
       "A modern alarm and security-focused website designed for clarity, trust, and easy customer access.",
     image: "/images/coveralarm.png",
-    link: "#",
+    link: "https://coveralarm.com",
   },
   {
     title: "Fire Alarm",
     description:
       "A responsive fire safety website with clear service information and strong calls to action.",
     image: "/images/firealarm.png",
-    link: "#",
+    link: "https://firealarm.ng",
   },
   {
     title: "BuildFast",
     description:
       "A construction and building solutions website created with a clean, professional interface.",
     image: "/images/buildfast.png",
-    link: "#",
+    link: "https://buildfast.ng",
   },
   {
     title: "Kustomer",
     description:
       "A customer-focused digital platform with an accessible layout and responsive user experience.",
     image: "/images/kustomer.png",
-    link: "#",
+    link: "https://kustomer.com.ng",
   },
   {
     title: "The Spire",
     description:
       "A polished business website with a premium appearance and conversion-focused sections.",
     image: "/images/thespire.png",
-    link: "#",
+    link: "https://thespire.com.ng",
   },
 ];
 
